@@ -1,8 +1,9 @@
-# React + Vite
+# GPT3_OpenAi
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Developed a project utilizing OpenAI's GPT-3 API within 4 days, showcasing advanced integration
+capabilities with React.
 
-Currently, two official plugins are available:
+![Screenshot 2024-10-31 122639](https://github.com/user-attachments/assets/8ea65f7c-a399-4a83-a0e0-b0b4ffb811c5)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
